@@ -1,0 +1,15 @@
+# ##########################################
+
+# PCF
+
+# Family & Device:    iCE40LP1K
+
+# Package:            QN84
+
+# ##########################################
+
+set_io LD1 A29
+set_io LD2 B20
+set_io LD3 B19
+set_io LD4 A25
+set_io clk A9
