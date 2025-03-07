@@ -7,5 +7,3 @@ The examples are meant to be compiled using the IceStorm toolkit, see https://gi
 1) btn uses to the capacitive buttons to control LED states
 2) cnt implements a binary counter using the onboard LEDs
 3) rot lights up one LED at a time indefinitely
-
-/!\ This work is Free and part of the PUBLIC DOMAIN. 
